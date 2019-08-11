@@ -1,5 +1,5 @@
 # Cloud-Setup-Automation
-Linux scripts to automate setting up VMs in Openstack(Webserver, HAProxy, Galera etc.)
+Linux scripts to automate setting up VMs in Openstack(Webserver, HAProxy, Galera Cluster, load balancer etc.)
 
 Linux project at school to do automation with parameterized scripts for VMs in OsloMet cloud services(Openstack)
 
